@@ -6,6 +6,7 @@ This repository contains a sample video file: `starwars1.mp4`.
 
 ## ▶️ Play Video (GitHub README)
 
+https://github.com/goldenwebb/media/releases/download/v1.0.0/starwars1.mp4
 
 https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
 
