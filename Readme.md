@@ -16,6 +16,7 @@ https://user-images.githubusercontent.com/6877923/123006036-64e2e780-d3b7-11eb-9
 
 
 https://raw.githubusercontent.com/goldenwebb/media/main/starwars1.mp4
+https://github.com/goldenwebb/media/raw/refs/heads/main/starwars1.mp4
 
 <video controls width="800">
   <source src="./starwars1.mp4" type="video/mp4">
