@@ -6,7 +6,7 @@ This repository contains a sample video file: `starwars1.mp4`.
 
 ## ▶️ Play Video (GitHub README)
 
-[![Watch video]](https://raw.githubusercontent.com/goldenwebb/media/main/starwars1.mp4)
+[!Watch video](https://raw.githubusercontent.com/goldenwebb/media/main/starwars1.mp4)
 
 <video controls width="800">
   <source src="./starwars1.mp4" type="video/mp4">
