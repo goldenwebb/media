@@ -11,6 +11,11 @@ This repository contains a sample video file: `starwars1.mp4`.
   Your browser does not support the video tag.
 </video>
 
+<video controls width="800" title="AnimationCPU quick start">
+  <source src="https://raw.githubusercontent.com/goldenwebb/media/main/starwars1.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ---
 
 ## 📁 Files
